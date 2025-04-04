@@ -1,0 +1,23 @@
+{
+   "formatVersion":"1",
+   "objectReleaseInfo":[
+      {
+         "tadirObject":"TABL",
+         "tadirObjName":"ZSM_TETS_STRUCT",
+         "objectKey":"ZSM_TETS_STRUCT",
+         "objectType":"TABL",
+         "softwareComponent":"",
+         "applicationComponent":"",
+         "state":"deprecated",
+         "successorClassification":"oneObject",
+         "successors":[
+            {
+               "tadirObject":"TABL",
+               "tadirObjName":"ZSM_TETS_STRUCT",
+               "objectType":"TABL",
+               "objectKey":"ZSM_TETS_STRUCT"
+            }
+         ]
+      }
+   ]
+}
